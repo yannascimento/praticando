@@ -1,1 +1,1 @@
-k
+$(function () {
